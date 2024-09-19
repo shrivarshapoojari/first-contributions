@@ -8039,6 +8039,7 @@ vivek saskar
 - [Sagar Satpute](https://github.com/Sagar7pute)
 - [Jinnawat Vilairat](https://github.com/LynchzDEV) **First step on the moon!**
 - [Rushikesh Sapkale](https://github.com/Rushikesh23-creator) **Hello developers!**
+- [Shrivarsha Poojary] **first step into opensource **
 - [Edward Magtoto](https://github.com/Kiydo) **First step with open-source!**
 - [Abhishek Patel](https://github.com/patelabhi1607) **First step with open-source!**
 - [James Johnson](https://github.com/jamesjohnson-3cloudsolutions) **Hello GitHub World!**
